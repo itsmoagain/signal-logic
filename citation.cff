@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the metadata below."
+title: "NDVI/SPI Anomaly Prototypes for Climate Research"
+authors:
+  - family-names: "Urich"
+    given-names: "Morgan"
+    email: "morganr.urich@gmail.com"
+version: "0.1.0"
+date-released: "2025-09-10"
+repository-code: "https://github.com/itsmoagain/signal-logic"
+license: "MIT"
+keywords:
+  - "NDVI"
+  - "SPI"
+  - "xarray"
+  - "NetCDF"
+  - "geospatial"
+  - "climate anomalies"
